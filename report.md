@@ -1,0 +1,2 @@
+I have learnt the differences between Git and Github. Github is the environment that allows to host my code and share it with others,
+whilst Git is the control system that manages and keeps track of my code.                                                                                                                                                                                                                                                                                                                             
